@@ -1,0 +1,52 @@
+IMPERIO-ESTELAR-SAVE 1
+name "Lucas"
+seedstr "20262411191659"
+seed 13162566294316873755 speed 10
+times 1795551599.4993184 1795553443.4943161 1795553443.4943161 1795553443.4943161
+dm 8000 0 cur 0 rqb 0 quest 5 flags 0
+tech 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+officer 0 0 0 0 0
+rq 0
+rng 3795136120187197446 5409932184038094927 14955795467908562822 18323975857786833325
+ev 1795557770.1912606 0 1 0
+dec 0 0 0 "" "" 0 "" 0 0 0 0 0 0 "" 0 0 0 0 0 0 "" 0 0 0 0 0 0 0 0 "" 0 0 0 0 0 0 0 "" 0 0
+stats 439.39348896706986 104.07055748807875 24.470898799277535 0 0 0
+bodies 2
+body 1 0 -1 1 "xehnu" 6 447 9
+info -22 23 13500 182 1 0 1.4181994088551035 1.1872077721790688 24.377211659419132 0.80931552547263153 0.93615251562085144 0 2 1.0063662887967375 0.91060488805420192 1.2048804442506296 1 6458 2946394969787379222 0 0
+res 1392.3934889670695 1335.0705574880787 224.47089879927753 542.77374835635976 227.09173647021603
+bld 4 1 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+pct 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+ship 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+def 0 0 0 0 0 0 0 0 0 0
+bq 0
+lq 0
+sq 0
+mod 0 1.25 1795554536.3465705 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bt 1795551599.4993184 0 0
+body 1 1 0 -1 "Lua de xehnu" 6 447 9
+info -62 -17 6458 1 10 6 0 0.30271874999999998 682.56192646373574 0 0 0 0 1 1 1 0 0 16580147357061522171 0 0
+res 0 0 0 0 0
+bld 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+pct 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+ship 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+def 0 0 0 0 0 0 0 0 0 0
+bq 0
+lq 0
+sq 0
+mod 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bt 1795551599.4993184 0 0
+fleets 0
+routes 0
+msgs 7
+msg 1795551599.4993184 0 1 "Bem-vindo, Comandante!" "Comandante \x01yLucas\x01d, seu império começa em \x01wxehnu\x01d [6:447:9], um mundo Oceânico.\x0a\x0aTudo está interligado: minas precisam de \x01yenergia\x01d e \x01wtrabalhadores\x01d; trabalhadores precisam de \x01gmoradia\x01d e \x01galimento\x01d; alimento vem das fazendas, que também consomem energia.\x0a\x0aSiga a \x01cPróxima missão\x01d (canto superior esquerdo) para aprender o caminho. Você está sob \x01gproteção de novato\x01d até 250 pontos. Depois disso, piratas, desastres e invasores vão testar seu império constantemente.\x0a\x0aTecla H abre a ajuda. Boa sorte!"
+msg 1795552022.2348363 7 1 "Missão concluída" "\x01gConstrua a Usina Solar\x01d\x0aRecompensa: 150 M, 75 C"
+msg 1795552043.8553138 7 1 "Missão concluída" "\x01gMina de Metal nível 2\x01d\x0aRecompensa: 200 M, 100 C"
+msg 1795552043.8553138 7 1 "Missão concluída" "\x01gMina de Cristal nível 1\x01d\x0aRecompensa: 150 M, 150 C"
+msg 1795552376.3465705 3 1 "Veio mineral em xehnu" "Geólogos encontraram um veio de metal de alta pureza: +25% por 6h."
+msg 1795552690.4563675 7 1 "Missão concluída" "\x01gMina de Metal nível 4\x01d\x0aRecompensa: 400 M, 200 C"
+msg 1795552789.4427176 7 1 "Missão concluída" "\x01gSetor Residencial nível 1\x01d\x0aRecompensa: 300 M, 150 C"
+debris 0
+touched 0
+explored 0
+end
