@@ -1,0 +1,17 @@
+# executáveis e objetos gerados pela compilação
+*.o
+*.exe
+a.out
+batalha/batalha
+mercador/mercador
+conquista/conquista
+colonia/colonia
+*/simula
+novo-mundo/novomundo
+esqueleto/posto
+exemplos/cap13/hamurabi/hamurabi
+exemplos/cap14/hamurabi/hamurabi
+# arquivos salvos pelos jogos
+*.sav
+*.sav.tmp
+*.bak
